@@ -1,4 +1,4 @@
-token=NDc2NzE1NjkwNDMxMjE3Njc2.Dn1QAA.7QszBsYEZE-LGS_wZ-xNdIjnu4I
+token=NDc2NzE1NjkwNDMxMjE3Njc2.Dn1QAA.7QszBsYEZE-LGS_wZ-xNdIjnu4I=
 owner=470500980342128650
 prefix=ez
 game=ez,music
